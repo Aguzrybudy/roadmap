@@ -80,3 +80,45 @@ https://www.python.org/
 
 
 ## Application Areas
+
+Python has always been a trendy choice for programming when it comes to either Web Development, Machine Learning, or Scripting. We have listed a few application areas that you can explore with Python and its amazing libraries and frameworks. Each application area has its own set of extra learnings and it’s up to your interest to choose from!
+
+
+![Alt text](images/python_roadmap.png?raw=true "Title")
+
+
+### Path 1: Web Scraping
+- Beautiful soup
+- Selenium
+- Scrapy
+
+### Path 2: Scripting
+- DevOps: Docker, Kubernetes, etc.
+- System Admin
+
+### Path 3: Web Development
+- Django
+- Flask
+
+### Path 4: Ethical Hacking
+
+### Path 5: Machine Learning
+- TensorFlow
+- PyTorch
+- Keras
+- Scikit-learn
+- Numpy
+- Pandas
+- SciPy
+- Matplotlib
+- Seaborn
+
+### Path 6: Software Development Desktop GUIs
+- TkInter
+- wxWidgets
+- Kivy, for writing multitouch applications.
+- Qt via pyqt or pyside
+
+### Path 7: Data Science
+
+_Source: [Open This Link](https://medium.com/analytics-vidhya/python-roadmap-to-follow-in-2021-1f49715468ca)_
