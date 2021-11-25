@@ -121,4 +121,4 @@ Python has always been a trendy choice for programming when it comes to either W
 
 ### Path 7: Data Science
 
-_Source: [Open This Link](https://medium.com/analytics-vidhya/python-roadmap-to-follow-in-2021-1f49715468ca){:target="_blank" rel="noopener"}_
+_Source: [Open This Link](https://medium.com/analytics-vidhya/python-roadmap-to-follow-in-2021-1f49715468ca)_
